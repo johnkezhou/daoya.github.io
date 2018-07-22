@@ -24,7 +24,8 @@ title:		           '成长中的蒲公英'
 description:	       '成长中的蒲公英 | daoya blog'
 author:                 'daoya'
 email:                  'dandelionzjx@gmail.com'
-url:                    'https://daoya.githu.io'
+url:                    'https://daoya.github.io'
+baseurl:                ''
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
